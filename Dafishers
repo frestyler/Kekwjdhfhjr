@@ -1,5 +1,4 @@
 --Data updated on: 2024-11-18 10:10:17
-by: Freestyle
 
 return {
     FishRarityData = {
@@ -469,7 +468,6 @@ return {
 }
 
 --Data updated on: 2024-12-25 02:38:37
-by: freestyle
 
 return {
     FishData = {
